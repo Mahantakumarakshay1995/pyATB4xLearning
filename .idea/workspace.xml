@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c8efbe-5485-4101-842f-7c84932cb1d0" name="Changes" comment="All Files added">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="93c8efbe-5485-4101-842f-7c84932cb1d0" name="Changes" comment="All Files added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -46,35 +44,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Assignment003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Lab0021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0023.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0025.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0026.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0028.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0029.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0034.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0035.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.lab0027.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Assignment003.executor": "Run",
+    "Python.Lab001.executor": "Run",
+    "Python.Lab0014.executor": "Run",
+    "Python.Lab0017.executor": "Run",
+    "Python.Lab0018.executor": "Run",
+    "Python.Lab0019.executor": "Run",
+    "Python.Lab002.executor": "Debug",
+    "Python.Lab0021.executor": "Run",
+    "Python.Lab0022.executor": "Run",
+    "Python.Lab0023.executor": "Run",
+    "Python.Lab0024.executor": "Run",
+    "Python.Lab0025.executor": "Run",
+    "Python.Lab0026.executor": "Run",
+    "Python.Lab0028.executor": "Run",
+    "Python.Lab0029.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab0034.executor": "Run",
+    "Python.Lab0035.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab010.executor": "Debug",
+    "Python.Task006.executor": "Run",
+    "Python.lab0027.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.Task006">
     <configuration name="Lab0028" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyATB4xLearning" />
@@ -284,8 +283,27 @@
       <option name="project" value="LOCAL" />
       <updated>1724136402192</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="All Files added">
+      <option name="closed" value="true" />
+      <created>1724136896927</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724136896927</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab002 added" />
