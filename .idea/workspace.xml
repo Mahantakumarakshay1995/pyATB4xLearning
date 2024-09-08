@@ -4,15 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c8efbe-5485-4101-842f-7c84932cb1d0" name="Changes" comment="All Files added">
-      <change afterPath="$PROJECT_DIR$/src/22082024/Lab0045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22082024/Lab0050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22082024/Lab0051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22082024/Lab0056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22082024/Lab0057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22082024/Lab0059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/22082024/Lab0060.py" afterDir="false" />
+    <list default="true" id="93c8efbe-5485-4101-842f-7c84932cb1d0" name="Changes" comment="All Files added 22/08/2024">
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab0061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab0065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab0066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab0067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab0068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab0094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab0095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Task007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Task007.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +50,9 @@
     &quot;accountId&quot;: &quot;5f798421-0466-49cc-ade0-2839f85906e4&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ex_27082024/Lab074.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -85,20 +96,40 @@
     "Python.Lab0059.executor": "Run",
     "Python.Lab006.executor": "Run",
     "Python.Lab0060.executor": "Run",
+    "Python.Lab0061.executor": "Run",
+    "Python.Lab0065.executor": "Run",
+    "Python.Lab0066.executor": "Run",
+    "Python.Lab0067.executor": "Run",
+    "Python.Lab0068.executor": "Run",
     "Python.Lab007.executor": "Run",
+    "Python.Lab0094.executor": "Run",
     "Python.Lab010.executor": "Debug",
+    "Python.Lab072.executor": "Run",
+    "Python.Lab073.executor": "Run",
+    "Python.Lab074.executor": "Run",
     "Python.Task003.executor": "Run",
     "Python.Task004.executor": "Run",
     "Python.Task006.executor": "Run",
     "Python.Task007.executor": "Run",
+    "Python.Task008.executor": "Run",
+    "Python.Task009.executor": "Run",
+    "Python.Task010.executor": "Run",
     "Python.lab0027.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/aksha/PycharmProjects/pyATB4xLearning/src/ex_27082024"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab0060">
-    <configuration name="Lab0051" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aksha\PycharmProjects\pyATB4xLearning\src\ex_27082024" />
+      <recent name="C:\Users\aksha\PycharmProjects\pyATB4xLearning\src\ex_24082024" />
+      <recent name="C:\Users\aksha\PycharmProjects\pyATB4xLearning\src\ex_24082014" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Lab0094">
+    <configuration name="Lab0094" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/22082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_29082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/22082024/Lab0051.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_29082024/Lab0094.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0056" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab072" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/22082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_24082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/22082024/Lab0056.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_24082024/Lab072.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0057" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab073" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +182,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/22082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_27082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/22082024/Lab0057.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_27082024/Lab073.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0059" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab074" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,11 +204,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/22082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_27082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/22082024/Lab0059.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_27082024/Lab074.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0060" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,11 +226,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/22082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Tasks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/22082024/Lab0060.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Tasks/Task007.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab0060" />
-        <item itemvalue="Python.Lab0059" />
-        <item itemvalue="Python.Lab0057" />
-        <item itemvalue="Python.Lab0056" />
-        <item itemvalue="Python.Lab0051" />
+        <item itemvalue="Python.Lab0094" />
+        <item itemvalue="Python.Lab073" />
+        <item itemvalue="Python.Lab074" />
+        <item itemvalue="Python.Lab072" />
+        <item itemvalue="Python.Task007" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724137107635</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="All Files added 22/08/2024">
+      <option name="closed" value="true" />
+      <created>1724490184838</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724490184838</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,7 +379,8 @@
     <MESSAGE value="Lab002 added" />
     <MESSAGE value="All Files added 17 files" />
     <MESSAGE value="All Files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All Files added" />
+    <MESSAGE value="All Files added 22/08/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Files added 22/08/2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
